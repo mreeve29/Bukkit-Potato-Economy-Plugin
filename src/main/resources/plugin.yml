@@ -1,0 +1,21 @@
+name: 'PotatoEconomy'
+version: '1.0.0'
+main: me.potatoeconomy.Main
+api-version: 1.18
+commands:
+  testGUI:
+    description: An example GUI
+    usage: /<gui>
+    permission: potatoeconomy.gui
+  spawnVillager:
+    description: Summons Villager for Marketplace
+    usage: /<spawnVillager> [weaponsmith|blocks]
+    permission: potatoeconomy.villager
+  removeKing:
+    description: Removes current King
+    usage: /<removeking>
+    permission: potatoeconomy.removeking
+  marketPrices:
+    description: Shows player all market prices
+    usage: /<marketPrices>
+    permission: potatoeconomy.marketPrices

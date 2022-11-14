@@ -1,0 +1,16 @@
+me\potatoeconomy\commands\VillagerSpawnCommand.class
+me\potatoeconomy\CSVManager.class
+me\potatoeconomy\KingManager.class
+me\potatoeconomy\commands\MarketPricesCommand.class
+me\potatoeconomy\Main.class
+me\potatoeconomy\market\MarketManager.class
+me\potatoeconomy\json\JSONManager.class
+me\potatoeconomy\events\VillagerListener.class
+me\potatoeconomy\market\ShopGUI.class
+me\potatoeconomy\commands\RefreshMarketCommand.class
+me\potatoeconomy\events\GeneralEvents.class
+me\potatoeconomy\json\JSONReader.class
+me\potatoeconomy\commands\RemoveKingCommand.class
+me\potatoeconomy\market\MarketGroup.class
+me\potatoeconomy\BossBarController.class
+me\potatoeconomy\market\MarketPricesGUI.class

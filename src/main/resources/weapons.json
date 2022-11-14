@@ -1,0 +1,11 @@
+{
+  "weapons": [
+    {
+      "material": "WOODENSWORD",
+      "name": "N/A",
+      "price": 69,
+      "description": "",
+      "enchantments" : []
+    }
+  ]
+}
